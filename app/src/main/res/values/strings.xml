@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Archive</string>
+    <string name="back_button_text">Back</string>
+    <string name="add_paper_text">Add paper</string>
+    <string name="add_tag_text">Add Tag</string>
+    <string name="take_back_up_text">Take Back up</string>
+    <string name="search_text">Search</string>
+</resources>
